@@ -2,8 +2,7 @@ class Swish < Formula
   desc "Swift script runner"
   homepage "https://github.com/FullQueueDeveloper/Swish"
   url "https://github.com/FullQueueDeveloper/Swish/archive/refs/tags/1.0.1.tar.gz"
-  
-  sha256 "0d3e9475544e937a01811476d35ea0ee62e46f89"
+  sha256 "2ac6fcd4988ac6cc570091ac62a005b0c0aa97d2d2328352bad01159019c70e8"
   license "MIT"
 
   depends_on xcode: ["14.0", :build]
