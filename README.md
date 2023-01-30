@@ -1,5 +1,7 @@
 # FullQueueDeveloper Swish
 
+Brew formula for https://github.com/FullQueueDeveloper/Swish
+
 ## How do I install these formulae?
 
 `brew install fullqueuedeveloper/swish/<formula>`
