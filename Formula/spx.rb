@@ -4,7 +4,6 @@ class Spx < Formula
   url "https://github.com/FullQueueDeveloper/SPX/archive/refs/tags/1.1.1.tar.gz"
   sha256 "47fb02ba413e80a228536107af71e23dcc76d2e3124f7a206f853c2053d7efbe"
   # curl -sL $url | sha256sum
-  name "spx"
   license "MIT"
 
   depends_on xcode: ["14.0", :build]
