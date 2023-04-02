@@ -1,12 +1,16 @@
-# FullQueueDeveloper Swish
+# FullQueueDeveloper Homebrew
 
-Brew formula for https://github.com/FullQueueDeveloper/Swish
+Brew formula for https://github.com/FullQueueDeveloper/
 
 ## How do I install these formulae?
 
-`brew install fullqueuedeveloper/swish/<formula>`
+`brew install fullqueuedeveloper/fullqueuedeveloper/<formula>`
 
-Or `brew tap fullqueuedeveloper/swish` and then `brew install <formula>`.
+Or `brew tap fullqueuedeveloper/fullqueuedeveloper` and then `brew install <formula>`.
+
+## Current formulae
+
+1. [SPX](https://github.com/FullQueueDeveloper/SPX) NPX for Swift
 
 ## Documentation
 
