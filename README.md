@@ -1,6 +1,6 @@
 # FullQueueDeveloper Homebrew
 
-Brew formula for https://github.com/FullQueueDeveloper/
+Brew formulae for https://github.com/FullQueueDeveloper/
 
 ## How do I install these formulae?
 
