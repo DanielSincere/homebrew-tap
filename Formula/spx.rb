@@ -1,8 +1,8 @@
 class SPX < Formula
   desc "NPX for Swift"
   homepage "https://github.com/FullQueueDeveloper/SPX"
-  url "https://github.com/FullQueueDeveloper/SPX/archive/refs/tags/1.0.4.tar.gz"
-  sha256 "09f605e40e21e35bc3d6be90fe7dd578989b2ddd59845e0e85446f1de750d8c7"
+  url "https://github.com/FullQueueDeveloper/SPX/archive/refs/tags/1.1.0.tar.gz"
+  sha256 "83433261d3cf11c2215f84647c48c2ce3bd46d6828b6984b641c230cb1655661"
   # curl -sL $url | sha256sum
   license "MIT"
 
