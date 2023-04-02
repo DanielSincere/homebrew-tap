@@ -1,4 +1,4 @@
-# FullQueueDeveloper Homebrew
+# SPX Homebrew
 
 Brew formula for https://github.com/FullQueueDeveloper/
 
@@ -10,7 +10,7 @@ Or `brew tap fullqueuedeveloper/fullqueuedeveloper` and then `brew install <form
 
 ## Current formulae
 
-1. [SPX](https://github.com/FullQueueDeveloper/SPX) NPX for Swift
+1. [SPX](https://github.com/FullQueueDeveloper/SPX)
 
 ## Documentation
 
