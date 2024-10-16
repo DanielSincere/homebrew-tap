@@ -1,16 +1,16 @@
-# FullQueueDeveloper Homebrew
+# Daniel Sincere Homebrew Taps
 
-Brew formulae for https://github.com/FullQueueDeveloper/
+Brew formulae for https://github.com/DanielSincere/
 
 ## How do I install these formulae?
 
-`brew install fullqueuedeveloper/fullqueuedeveloper/<formula>`
+`brew install danielsincere/tap/<formula>`
 
-Or `brew tap fullqueuedeveloper/fullqueuedeveloper` and then `brew install <formula>`.
+Or `brew tap danielsincere/tap` and then `brew install <formula>`.
 
 ## Current formulae
 
-1. [SPX](https://github.com/FullQueueDeveloper/SPX) NPX for Swift
+1. [SPX](https://github.com/danielsincere/SPX) NPX for Swift
 
 ## Documentation
 
