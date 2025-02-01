@@ -1,4 +1,4 @@
-class Spx < Formula
+class SincereMusicText < Formula
   desc "Writes Apple Music current song to a file to display in OBS"
   homepage "https://github.com/DanielSincere/SincereMusicText"
   url "https://github.com/DanielSincere/SincereMusicText/archive/refs/tags/v0.0.4.tar.gz"
